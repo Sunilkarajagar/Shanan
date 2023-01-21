@@ -5,7 +5,7 @@ public static void main (String [] args) {//main method body open
 		System.out.println("Hi...");
 		System.out.println("How are you...");
 	
-	
+	System.out.println("It time to explore gitub");
 	
 	
 	
